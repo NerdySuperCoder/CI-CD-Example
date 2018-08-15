@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
 
 		public ActionResult About()
 		{
-			ViewBag.Message = "Your application description page.";
+			ViewBag.Message = "My First Azure application for CI/CD";
 
 			return View();
 		}
